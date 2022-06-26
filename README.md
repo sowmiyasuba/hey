@@ -1,1 +1,1 @@
-# this file contains hello world and basic operations
+# this file contains hello world and basic four operations in core java
